@@ -1,0 +1,15 @@
+Index: app/src/androidTest/java/com/coolweather/android/ExampleInstrumentedTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/androidTest/java/com/coolweather/android/ExampleInstrumentedTest.java	(date 1592793901000)
++++ app/src/androidTest/java/com/coolweather/android/ExampleInstrumentedTest.java	(date 1592793994765)
+@@ -4,6 +4,7 @@
+ 
+ import androidx.test.platform.app.InstrumentationRegistry;
+ import androidx.test.ext.junit.runners.AndroidJUnit4;
++import androidx.test.runner.AndroidJUnit4;
+ 
+ import org.junit.Test;
+ import org.junit.runner.RunWith;
